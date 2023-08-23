@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ketut Angga</h1>
-<h3 align="center">A passionate web developer from Bali</h3>
 
 - 📫 How to reach me **anggapande45@gmail.com**
 
